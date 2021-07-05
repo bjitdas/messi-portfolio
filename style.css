@@ -1,0 +1,40 @@
+body{
+    font-family: 'Noto Sans SC', sans-serif;
+    margin: 0%;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    color:rgb(235, 144, 7);
+}
+.fsec{
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 50px;
+    margin-top: 2%;
+}
+.personal{
+    text-align: left;
+    font-size: 20px;
+}
+#messif{
+    border-radius: 100px;
+    width: 100%;
+}
+.half{
+    width: 50%;
+    margin-left: 3%;
+    margin-right: 2%;
+}
+#click-button{
+    background-image: linear-gradient(purple, orange);
+    text-decoration: none;
+    padding: 10px 40px;
+    font-weight: 800;
+    color: whitesmoke;
+}
